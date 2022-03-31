@@ -63,7 +63,7 @@ function NFTDropPage() {
                 <div className='mt-10 flex flex-1 flex-col items-center space-y-6 
                  text-center lg:space-y-0 lg:justify-center'>
                     <img className='w-80 object-cover pb-10 
-                     lg:h-40' src="https://mintable-downloadable-payloads.s3.amazonaws.com/000000-0000000002/100598039386987804754287261408270175088215538607297340694940330150752136829205/81bfb151-c14e-4e73-8c25-409bc674a24d_theTwoBrothers.peg.jpeg?AWSAccessKeyId=ASIAUXGGXLIG2F25LMFJ&Expires=1648761692&Signature=CtRIYid33pljRQ8S%2B3ZIUcgf9fc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCQ3m4xuW3CKggQdsZGeh4PC034XjfCvJOAFcOuYBsg1wIhAKxndEhGKJ7bS67II3UDyiJ6ZouSiL2PnZPeyxwnKEn9KpgCCB4QAxoMMzI0Njg2Nzk3MzI1Igw2X%2F%2FG%2F7bGPzAt2n8q9QGecILbqZuDE1vMUjlMGHrZVLqde1mzybqU71w1hdzatqHAIPZ5AXnSUeC5X%2FNMXslemDxTKtAg8yApVH2uLHlQpO8mpeeNOCdV0cYsVkpZw6vJbnbPLNQ0lKeHiIv2%2FkF3uCGd8UrTa6b0X3ozQm7tIRtBMlygH6afOxD2icAbQU9CZ69eSE5PfQatCw%2BLiOB%2BmlVs%2Flfw12dIUAr%2FceswnTtTDlPvExhJgZYfsMdLb6aqgUcDR7fcR%2BHrzb%2FcmA%2FWa8BJXZ67CkpYhq1QnpgHbmyd8NwqdwqzLZ98rkwfgxrHQ7VVhXAG%2BO0EKC8cCp8UJWVqjDDCrpiSBjqZAXP4CdCB6SapRDQ8getHa%2BpqebspMbVh2V8dmfOnEtYugGmuVy%2F2D3VNVpb0oPJPbnNkffM%2BGSjr55F%2FRKJIIwF6%2FGdQEEcizKAhj8xjuxDz6opr0A2Dap5BuQew1%2FBJcS3L%2FUk4jxKy00kvNBg9u1vOwqxBc3Trk2kynplTzWmfOlPisyRVgP08R3Ow1vvbmuOlsUpxi50hBw%3D%3D" alt="" />
+                     lg:h-40' src="http://personal.rhul.ac.uk/zkac/332/Screenshot%202022-03-31%20at%2022.31.20.png" alt="" />
                     <h1 className='text-3xl font-bold lg:text-5xl lg:font-extrabold'>
                         The TAKA ape coding club
                     </h1>
